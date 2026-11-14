@@ -1,7 +1,7 @@
 # Bank Term Deposit Subscription Prediction
 
 Predicts whether a bank client will subscribe to a term deposit after a marketing call
-(binary classification), built as part of my MSc AI coursework at Seneca College.
+(binary classification), built as part of my MSc AI coursework.
 
 ## Dataset
 Bank Marketing dataset (UCI Machine Learning Repository), file `bank.csv`
