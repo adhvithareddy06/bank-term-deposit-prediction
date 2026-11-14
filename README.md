@@ -4,8 +4,10 @@ Predicts whether a bank client will subscribe to a term deposit after a marketin
 (binary classification), built as part of my MSc AI coursework at Seneca College.
 
 ## Dataset
-Bank Marketing dataset (UCI Machine Learning Repository): 4,521 clients, 16 features,
-11.5% positive class. The data is not included in this repo; download it from the UCI source.
+Bank Marketing dataset (UCI Machine Learning Repository), file `bank.csv`
+(4,521 clients, 16 features, 11.5% positive class).
+Source: Moro, S., Cortez, P., Rita, P. (2014). A data-driven approach to predict the
+success of bank telemarketing. Decision Support Systems.
 
 ## Approach
 - **EDA and cleaning:** found that "unknown" in `poutcome` means "not contacted before"
